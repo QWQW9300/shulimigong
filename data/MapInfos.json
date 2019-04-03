@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"小黑屋","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"转移空间","order":3,"parentId":1,"scrollX":754,"scrollY":532.6666666666666},
+null,
+{"id":4,"expanded":false,"name":"超大迷宫","order":2,"parentId":1,"scrollX":10916.727272727274,"scrollY":9338.181818181818},
+{"id":5,"expanded":false,"name":"转移空间","order":4,"parentId":2,"scrollX":754,"scrollY":533.3333333333334}
+]

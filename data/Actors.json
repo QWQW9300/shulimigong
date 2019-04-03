@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"玩家 1","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":1,"equips":[2,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"玩家 2","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"玩家 3","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":1,"equips":[4,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"玩家 4","nickname":"","note":"","profile":""}
+]
